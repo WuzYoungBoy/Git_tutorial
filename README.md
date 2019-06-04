@@ -1,1 +1,1 @@
-# Git_tutorial
+Intro to Git.
